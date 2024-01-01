@@ -1,0 +1,17 @@
+h1 {
+   font-size: 3rem;
+   font-weight: 600;
+   letter-spacing: -4px;
+   text-transform: uppercase;
+}
+
+.btn-link {
+   text-decoration: none;
+}
+
+@media(max-width: 767px) {
+   .user-menu {
+      justify-content: center !important;
+      margin-top: 20px;
+   }
+}
